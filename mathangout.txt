@@ -1,0 +1,12 @@
+Nhap vao ma san pham
+Nhap vao ten san pham:MH01
+Nhap vao so luong ban duoc:0
+Nhap vao gia ban:0
+Nhap vao ma san pham
+Nhap vao ten san pham:MH01
+Nhap vao so luong ban duoc:0
+Nhap vao gia ban:0
+Nhap vao ma san pham
+Nhap vao ten san pham:MH01
+Nhap vao so luong ban duoc:0
+Nhap vao gia ban:0

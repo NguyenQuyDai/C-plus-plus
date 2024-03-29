@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704340155 source:e:\giáo trình các môn\code(c++)\docghifile\test2\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

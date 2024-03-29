@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1704338147 source:e:\giáo trình các môn\code(c++)\docghifile\test1\main.cpp
+	<iostream>
+	<fstream>
+
+1704337822 source:e:\giáo trình các môn\code(c++)\docghifile\test1\bai2.cpp
+	<iostream>
+	<fstream>
+
